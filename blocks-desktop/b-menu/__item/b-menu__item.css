@@ -1,0 +1,12 @@
+.b-menu__item
+{
+	display: inline-block;
+	margin-left: 10px;
+	color: #777;
+	text-decoration: none;
+}
+
+.b-menu__item a:hover
+{
+	color: #fff;
+}

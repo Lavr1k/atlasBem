@@ -1,0 +1,5 @@
+.b-menu__title
+{
+	display: table-cell;
+	height: 100%;
+}

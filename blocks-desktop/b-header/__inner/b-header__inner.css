@@ -1,0 +1,8 @@
+.b-header__inner
+{
+	display: table;
+	width: 1200px;
+	margin: auto;
+	padding: 25px 25px 55px 135px;
+	box-sizing: border-box;
+}
