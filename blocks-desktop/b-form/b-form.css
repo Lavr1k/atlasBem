@@ -1,0 +1,18 @@
+.b-form
+{
+	margin-left: 70px;
+	position: relative;
+}
+
+.b-form::before
+{
+	position: absolute;
+	content: "";
+	width: 2px;
+	height: 250px;
+	border-left-style: outset;
+	border-left-color: #343537;
+	border-width: 1px;
+	background-color: #000;
+	left: -35px;
+}

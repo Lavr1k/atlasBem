@@ -1,5 +1,5 @@
 .b-header__left
 {
-	display: inline-block;
+	display: table-cell;
 	width: 650px;
 }

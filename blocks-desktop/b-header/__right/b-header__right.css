@@ -1,0 +1,6 @@
+.b-header__right
+{
+	display: table-cell;
+	width: 360px;
+	vertical-align: top;
+}

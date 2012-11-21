@@ -1,5 +1,5 @@
 ({
 	shouldDeps: {
-		elems: [ 'inner', 'left' ]
+		elems: [ 'inner', 'left', 'right' ]
 	}
 })

@@ -1,0 +1,9 @@
+.b-form__field
+{
+	display: block;
+	margin-top: 10px;
+	width: 245px;
+	height: 25px;
+	font-size: 14px;
+	font-family: tahoma;
+}

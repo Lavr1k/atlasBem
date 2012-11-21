@@ -88,7 +88,46 @@
                 }]
             },{
                 elem: 'right',
-                content: '' 
+                content: {
+                    block: 'b-form',
+                    content: [{
+                        elem: 'title',
+                        content: 'Wanna Get in Touch?'
+                    },{
+                        elem: 'field',
+                        tag: 'input',
+                        attrs: {
+                            type: 'text',
+                            placeholder: '*Your Name: ...'
+                        },
+                        mods: {
+                            type: 'solid'
+                        }
+                    },{
+                        elem: 'field',
+                        tag: 'input',
+                        attrs: {
+                            type: 'text',
+                            placeholder: '*Your Mail: ...'
+                        },
+                        mods: {
+                            type: 'solid'
+                        }
+                    },{
+                        elem: 'area',
+                        tag: 'textarea',
+                        attrs: {
+                            placeholder: '*Your Message: ...'
+                        },
+                        mods: {
+                            type: 'solid'
+                        }
+                    },{
+                        elem: 'button',
+                        tag: 'button',
+                        content: 'Submit ->'
+                    }]
+                }
             }]
     	}
     }]
